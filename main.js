@@ -4,7 +4,7 @@ rightWristY = 0;
 leftWristX = 0;
 leftWristY = 0;
 scoreLeftWrist = 0;
-scoreRightWrist= 0;
+scorerightWrist= 0;
 
 
 function preload() {
